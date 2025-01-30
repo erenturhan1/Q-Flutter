@@ -4,16 +4,22 @@ My Kitchen Assistant
 My Kitchen Assistant, mutfaktaki mevcut malzemelere göre tarif önerileri sunan ve artan malzemeleri değerlendirerek israfı önlemeyi amaçlayan bir mobil uygulamadır. Kullanıcıların, sahip oldukları malzemelerle yaratıcı yemekler yapmalarına yardımcı olur, yemek tarifleriyle birlikte verimli mutfak yönetimini destekler.
 
 Ekibimiz
+
 **Danışman:** Keyvan Arasteh [https://github.com/keyvanarasteh](Keyvan Arasteh)
+
 **Takım Üyeleri:**
+
 Eren Turhan [https://github.com/erenturhan1]
 
 Özellikler
 Tarif Önerileri: Eldeki malzemelere göre özelleştirilmiş yemek tarifleri sunar.
+
 Artan Malzeme Yönetimi: Kalan malzemeleri değerlendiren ve israfı önleyen önerilerde bulunur.
+
 Gece/Gündüz Modu: Kullanıcı dostu bir deneyim için her iki modda da rahat kullanım sağlar.
 
 Kullanılan Teknolojiler
+
 -Flutter
 
 -Dart
