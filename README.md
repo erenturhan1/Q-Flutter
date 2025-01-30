@@ -1,4 +1,6 @@
+My Kitchen Assistant
 ![image](https://github.com/user-attachments/assets/a99be3e0-6824-45c6-93ad-8dbb573f8213)
+
 Proje Hakkında
 My Kitchen Assistant, mutfaktaki mevcut malzemelere göre tarif önerileri sunan ve artan malzemeleri değerlendirerek israfı önlemeyi amaçlayan bir mobil uygulamadır. Kullanıcıların, sahip oldukları malzemelerle yaratıcı yemekler yapmalarına yardımcı olur, yemek tarifleriyle birlikte verimli mutfak yönetimini destekler.
 
