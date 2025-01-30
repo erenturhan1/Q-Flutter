@@ -6,8 +6,8 @@ My Kitchen Assistant, mutfaktaki mevcut malzemelere göre tarif önerileri sunan
 Ekibimiz
 **Danışman:** Keyvan Arasteh [https://github.com/keyvanarasteh](Keyvan Arasteh)
 **Takım Üyeleri:**
-Özellikler
 Eren Turhan [https://github.com/erenturhan1]
+
 Özellikler
 Tarif Önerileri: Eldeki malzemelere göre özelleştirilmiş yemek tarifleri sunar.
 Artan Malzeme Yönetimi: Kalan malzemeleri değerlendiren ve israfı önleyen önerilerde bulunur.
